@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Mytracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimaryDark">@color/mycolor</item>
+        <item name="colorPrimary">@color/mycolor</item>
+        <item name="android:navigationBarColor">@color/mycolor</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Mytracker" parent="Base.Theme.Mytracker" />
+</resources>

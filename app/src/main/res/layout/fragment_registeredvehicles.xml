@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".registeredvehicles">
+
+    <!-- TODO: Update blank fragment layout -->
+    <androidx.recyclerview.widget.RecyclerView
+
+        android:id="@+id/registeredVehiclesList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="5dp"
+        android:padding="5dp" />
+
+    <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+        android:layout_width="wrap_content"
+        android:id="@+id/registerVehicle"
+        android:layout_height="wrap_content"
+        app:icon="@drawable/add"
+        android:elevation="10dp"
+        app:rippleColor="@color/white"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="50dp"
+        android:layout_marginRight="30dp"
+        app:iconSize="25sp"
+        android:textSize="15sp"
+        app:iconGravity="end"
+        android:text="Register"
+        android:backgroundTint="@color/mycolor"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:id="@+id/noVehicle"
+        android:text="No registered vehicles at the moment !"
+        android:textSize="20sp"
+        android:layout_centerInParent="true"
+        android:elevation="15dp"/>
+
+
+
+</RelativeLayout>

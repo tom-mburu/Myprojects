@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">mytracker</string>
+    <string name="open_menu">open menu</string>
+    <string name="close_menu">close menu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="vehicle_type">
+        <item>Motorbike</item>
+        <item>car</item>
+        <item>lorry</item>
+        <item>Bus</item>
+        <item>pickup</item>
+    </string-array>
+</resources>

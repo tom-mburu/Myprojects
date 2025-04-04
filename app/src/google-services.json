@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "64660237774",
+    "firebase_url": "https://firstfirebaseproject-9258e-default-rtdb.firebaseio.com",
+    "project_id": "firstfirebaseproject-9258e",
+    "storage_bucket": "firstfirebaseproject-9258e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64660237774:android:7f40e43250e6990a29cf9f",
+        "android_client_info": {
+          "package_name": "com.example.diaryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYWuxIr8KHTjazXaCxlLfLzYwM7F8iQXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64660237774:android:f980f2d1112585ea29cf9f",
+        "android_client_info": {
+          "package_name": "com.example.firebasepractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYWuxIr8KHTjazXaCxlLfLzYwM7F8iQXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64660237774:android:522eea996b6ff56229cf9f",
+        "android_client_info": {
+          "package_name": "com.example.firebaseproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYWuxIr8KHTjazXaCxlLfLzYwM7F8iQXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64660237774:android:42ace386c515b5d629cf9f",
+        "android_client_info": {
+          "package_name": "com.example.loginregisterfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYWuxIr8KHTjazXaCxlLfLzYwM7F8iQXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64660237774:android:44b872f7ea9e774a29cf9f",
+        "android_client_info": {
+          "package_name": "com.example.mytracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYWuxIr8KHTjazXaCxlLfLzYwM7F8iQXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

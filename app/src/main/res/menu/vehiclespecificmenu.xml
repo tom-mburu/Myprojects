@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/edit"
+    android:title="Edit Vehicle Details"/>
+    <item android:id="@+id/delete"
+        android:title="Delete Vehicle"/>
+    <item android:id="@+id/showOnMap"
+        android:title="Display On Map"/>
+    <item android:id="@+id/geofence"
+        android:title="Geofence Vehicle"/>
+    <item android:title="Save Current Location"
+        android:id="@+id/save"/>
+    <item android:id="@+id/getsavedLocations"
+        android:title="Saved Locations"/>
+</menu>
